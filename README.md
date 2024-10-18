@@ -60,6 +60,7 @@ We evaluate baselines using Bangla, Indian, Multi-lingual, and Character-based L
 | TB-BanglishBERT   | 77.12    | 81.39    | 21.41    | 52.79    | 7.42     |
 
 ## Prompting Strategies
+We propose a novel prompting strategy that translates the transliterated Bangla into either Bangla or English before inferencing. Our strategy achieves sota at the 0-shot setting.
 
 | Strategy               | Prompt                                                                                       |
 |-------------------------------|----------------------------------------------------------------------------------------------|
