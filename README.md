@@ -4,12 +4,12 @@
 [![paper](https://img.shields.io/badge/Paper_Status-In--Review-yellow)](https://arxiv.org/abs/2410.13281)
 [![arXiv](https://img.shields.io/badge/Code-farhanishmam/BanTH-blue?logo=GitHub)](https://github.com/farhanishmam/BanTH)
 
-[Fabiha Haider](https://github.com/FabihaHaider),
-[Fariha Tanjim Shifat](https://github.com/fariha6412),
-[Md Farhan Ishmam](https://farhanishmam.github.io/),
-[Deeparghya Dutta Barua*](https://github.com/arg274), 
-[Md Sakib Ul Rahman Sourove*](https://github.com/souroveskb), 
-[Md Fahim*](https://github.com/md-fahim/), and
+[Fabiha Haider*](https://github.com/FabihaHaider),
+[Fariha Tanjim Shifat*](https://github.com/fariha6412),
+[Md Farhan Ishmam*](https://farhanishmam.github.io/),
+[Deeparghya Dutta Barua](https://github.com/arg274), 
+[Md Sakib Ul Rahman Sourove](https://github.com/souroveskb), 
+[Md Fahim](https://github.com/md-fahim/), and
 [Farhad Alam Bhuiyan](https://github.com/pdfarhad).
 
 ## Dataset Overview
