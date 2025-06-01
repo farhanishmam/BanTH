@@ -5,6 +5,8 @@
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-aplycaebous/BanTH-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/aplycaebous/BanTH)
 [![Poster](https://img.shields.io/badge/Poster-EF3939?style=flat&logo=airplayvideo&logoColor=white&color=gray&labelColor=00877a)](https://drive.google.com/file/d/1hfdV5-FcHgfci0IOEJKGgFzJlXC6XuTO/view?usp=sharing)
 [![Slides](https://img.shields.io/badge/Slides-EF3939?style=flat&logo=googleslides&logoColor=white&color=gray&labelColor=B7472A)](https://drive.google.com/file/d/1k3dR8KXX-yeoD-H7zM2Cf6_LuTjOEMOR/view?usp=sharing)
+[![Video](https://img.shields.io/badge/Video-4285F4?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjQgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMTI4QzAgOTIuNyAyOC43IDY0IDY0IDY0SDMyMGMzNS4zIDAgNjQgMjguNyA2NCA2NFYzODRjMCAzNS4zLTI4LjcgNjQtNjQgNjRINjRjLTM1LjMgMC02NC0yOC43LTY0LTY0VjEyOHpNNTU5LjEgOTkuOGMxMC40IDUuNiAxNi45IDE2LjQgMTYuOSAyOC4yVjM4NGMwIDExLjgtNi41IDIyLjYtMTYuOSAyOC4ycy0yMyA1LTMyLjktMS42bC05Ni02NEw0MTYgMzM3LjFWMzIwIDE5MiAxNzQuOWwxNC4yLTkuNSA5Ni02NGM5LjgtNi41IDIyLjQtNy4yIDMyLjktMS42eiIvPjwvc3ZnPg==&logoColor=white&color=gray&labelColor=B197FC)](
+https://drive.google.com/file/d/1N0GSOMRfacmgEDUvrUpZnkQ8dj0Juneb/view?usp=sharing)
 
 [Fabiha Haider*](https://github.com/FabihaHaider),
 [Fariha Tanjim Shifat*](https://github.com/fariha6412),
